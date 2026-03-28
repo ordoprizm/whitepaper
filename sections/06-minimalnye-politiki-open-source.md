@@ -17,7 +17,7 @@
 
 ### 2) Security disclosure
 **Канал:**
-- `security@prism.community` (или GitHub Security Advisories).
+- `security@prizm.community` (или GitHub Security Advisories).
 
 **Запрет:**
 - не публиковать 0-day публично до фикса.
